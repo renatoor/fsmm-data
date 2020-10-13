@@ -20,11 +20,6 @@ function generateChart(querySelector, dataVelocity, dataPerception) {
 				p2: 'y2',
 				p3: 'y2',
 			},
-			types: {
-				p1: 'scatter',
-				p2: 'scatter',
-				p3: 'scatter',
-			},
 			names: {
 				v1: 'Tempo 1',
 				v2: 'Tempo 2',
